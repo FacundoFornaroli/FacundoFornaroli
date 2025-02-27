@@ -91,7 +91,8 @@ Languages and Tools🛠:
 <summary> Certificaciones: </summary>
 <br/>
 1 Introduccion a Python
-2 Introduccion a Bases de Datos y SQL
+<a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio/blob/main/pagina%20web%20completa/Certificados/Certificado1.pdf"_blank">Introduccion a Bases de Datos y SQL</a>
+
 3 Power BI
   
 </details>
