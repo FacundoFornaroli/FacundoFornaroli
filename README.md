@@ -90,10 +90,9 @@ Languages and Tools🛠:
 <details>
 <summary> Certificaciones: </summary>
 <br/>
-1 Introduccion a Python
+<a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio/blob/main/pagina%20web%20completa/Certificados/Certificado2.pdf">Introduccion a Python</a>
 <a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio/blob/main/pagina%20web%20completa/Certificados/Certificado1.pdf"_blank">Introduccion a Bases de Datos y SQL</a>
 
-3 Power BI
   
 </details>
 
@@ -114,7 +113,7 @@ Languages and Tools🛠:
 
 
 <a href="https://www.linkedin.com/in/facundofornaroli/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+>   <img align="left" alt="Facundo Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
