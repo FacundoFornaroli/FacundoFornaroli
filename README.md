@@ -3,15 +3,14 @@
 ### About me🧑:
 I am Data Science student in EducacionIT, I am also studying technical degree in administration and engineering in automation and control.<br/>
 I am currently doing projects based on business intelligence, manipulating and cleaning databases and analyzing data. <br/>
-I am interested in learning: Machine Learning, Power BI, Python, Artificial inteligence and would love to grow my knowledge in these Technologies.
+I am interested in learning: Machine Learning, Power BI, Python, Artificial inteligence and would love to grow my knowledge in these Technologies.<br/>
 
-<img align="right" alt="image"  width="400" height="280" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🔭 I’m currently working on Projects.
+- 🌱 I’m currently learning Data Science.
+- 👯 I’m looking to work with Machine Learning and Data Scientist projects or Automations.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
+- 💬 Ask me Business intelsigence.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
