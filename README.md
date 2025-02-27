@@ -4,8 +4,8 @@
   <summary><h2><b>🥇 Projects .</b></h2></summary>
 <table border="1">
     <tr>
-        <th>Proyecto</th>
-        <th>Descripción</th>
+        <th>Projects</th>
+        <th>Description</th>
     </tr>
     <tr>
         <td><a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio" target="_blank">My Portfolio web</a></td>
@@ -54,10 +54,10 @@ Languages and Tools🛠:
 ---
 
 <details>
-<summary> Certificaciones: </summary>
+<summary> Certifications: </summary>
 <br/>
-<a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio/blob/main/pagina%20web%20completa/Certificados/Certificado2.pdf">Introduccion a Python</a>
-<a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio/blob/main/pagina%20web%20completa/Certificados/Certificado1.pdf"_blank">Introduccion a Bases de Datos y SQL</a>
+<a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio/blob/main/pagina%20web%20completa/Certificados/Certificado2.pdf">Introduccion a Python</a><br>
+<a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio/blob/main/pagina%20web%20completa/Certificados/Certificado1.pdf"_blank">Introduccion a Bases de Datos y SQL</a><br>
 
   
 </details>
