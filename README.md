@@ -2,57 +2,23 @@
 </br>
 	
   <summary><h2><b>🥇 Projects .</b></h2></summary>
+<table border="1">
+    <tr>
+        <th>Proyecto</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio" target="_blank">My Portfolio web</a></td>
+        <td>Welcome to my online portfolio. Here you will find a carefully curated selection of my best work in IT projects. My goal is to showcase my passion for Data Science and my ability to create Automations. Explore my projects and feel free to contact me if you are looking for data analytics or to create projects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/FacundoFornaroli/Facturitas" target="_blank">Facturitas</a></td>
+        <td>Facturitas is a pdf reader, executed with chat gpt and a prompt to structure invoices and create a database to later combine with power bi and do a data analysis.</td>
+    </tr>
+</table>
 
 
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 Lane Detection (OpenCV)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/akshitagupta15june/vehicle_speed_estimator"><b>💻 Vehicle Speed Estimator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/vehicle_speed_estimator?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/vehicle_speed_estimator?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/vehicle_speed_estimator?label=Python&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/akshitagupta15june/Face-X"><b>👨 Face-X</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-
-<br/>  
-  
-
-
-
-<div align="center">
-  
-
-
+ 
 
 
 </div>
