@@ -82,6 +82,8 @@ Languages and Tools🛠:
 <img align="left" alt="Facundo Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
+<a href="https://mail.google.com/mail/u/1/#inbox">fornarolifuhrfacundo@gmail.com</a>
+
 <br/>
 
 </details>
