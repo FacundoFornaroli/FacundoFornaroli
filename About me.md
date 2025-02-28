@@ -1,8 +1,5 @@
 <h1 align="center"><b>Hi , I'm Facundo Fornaroli Fuhr </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </br>
-<img src="https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg" width="20" height="20" alt="Tierra">
-<span>Argentina</span>
-
 	
   <summary><h2><b>🥇 Projects .</b></h2></summary>
 <table border="1">
