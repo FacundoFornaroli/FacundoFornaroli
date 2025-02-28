@@ -8,7 +8,7 @@
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio" target="_blank"><img src="https" alt="Mi Portfolio web" width="50" height="50"></a></td>
+        <td><a href="https://github.com/FacundoFornaroli/Pagina-Web-Mi-Portfolio" target="_blank"><img src="https://github.com/FacundoFornaroli/FacundoFornaroli/blob/main/%7B15EFFF6A-4A20-438B-A376-59BF5C2E86AF%7D.png" alt="Mi Portfolio web"></a></td>
         <td>Welcome to my online portfolio. Here you will find a carefully curated selection of my best work in IT projects. My goal is to showcase my passion for Data Science and my ability to create Automations. Explore my projects and feel free to contact me if you are looking for data analytics or to create projects.</td>
     </tr>
     <tr>
