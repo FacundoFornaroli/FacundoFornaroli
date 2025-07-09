@@ -12,7 +12,7 @@
         <td>Welcome to my online portfolio. Here you will find a carefully curated selection of my best work in IT projects. My goal is to showcase my passion for Data Science and my ability to create Automations. Explore my projects and feel free to contact me if you are looking for data analytics or to create projects.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/FacundoFornaroli/Facturitas" target="_blank"><img src="https://github.com/FacundoFornaroli/FacundoFornaroli/blob/main/%7B46E9321E-80AC-4171-B7F8-A8055181F099%7D.png" alt="Facturitas"></a></td>
+        <td><a href="https://github.com/FacundoFornaroli/ferre_api" target="_blank"><img src="https://github.com/FacundoFornaroli/FacundoFornaroli/blob/main/%7B46E9321E-80AC-4171-B7F8-A8055181F099%7D.png" alt="Facturitas"></a></td>
         <td>Facturitas is a pdf reader, executed with python and chat gpt and a prompt to structure invoices and create a database to later combine with power bi and do a data analysis.</td>
     </tr>
 </table>
