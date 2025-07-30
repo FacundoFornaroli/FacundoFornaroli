@@ -12,7 +12,7 @@
         <td>Welcome to my online portfolio. Here you will find a carefully curated selection of my best work in IT projects. My goal is to showcase my passion for Data Science and my ability to create Automations. Explore my projects and feel free to contact me if you are looking for data analytics or to create projects.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/FacundoFornaroli/ferre_api" target="_blank"><img src="https://github.com/FacundoFornaroli/ferre_api/blob/main/Cosas%20que%20me%20ayudaron%20a%20entender%20lo%20que%20pude%20hacer/Captura%20de%20pantalla_9-7-2025_161127_localhost.jpeg" alt="Ferre_api"></a></td>
+        <td><a href="https://github.com/FacundoFornaroli/ferre_api" target="_blank"><img src="https://github.com/FacundoFornaroli/Ferre_api/blob/main/Cosas%20que%20me%20ayudaron%20a%20entender%20lo%20que%20pude%20hacer/Captura%20de%20pantalla_9-7-2025_161127_localhost.jpeg" alt="Ferre_api"></a></td>
         <td>Esta es una API REST (Interfaz de Programación de Aplicaciones) desarrollada con FastAPI y Python para gestionar una ferretería. La API permite manejar productos, clientes, ventas, inventario, proveedores y mucho más.(En continuo desarrollo y funcionalidad)</td>
     </tr>
 </table>
